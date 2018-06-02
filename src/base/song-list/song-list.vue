@@ -20,7 +20,7 @@
   	  	type: Array,
   	  	default: []
   	  },
-      rank: {
+      rank: { 
         type: Boolean,
         default: false
       }
